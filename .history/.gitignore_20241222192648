@@ -1,0 +1,30 @@
+# Python Cache Files
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+env/
+
+# Sensitive Files
+*.env
+
+# Logs
+*.log
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Streamlit Cache
+.streamlit/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# VS Code Settings (Optional)
+.vscode/
+
+# Model Files (Optional)
+# Uncomment if the model file is large
+# *.pkl

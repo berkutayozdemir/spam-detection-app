@@ -3,7 +3,7 @@ import joblib
 
 # Başlık
 st.title("📧 Spam Tespit Uygulaması")
-st.write("İngilizce Bir mesaj girin ve spam olup olmadığını öğrenin.")
+st.write("ngilizce Bir mesaj girin ve spam olup olmadığını öğrenin.")
 
 # Model ve TF-IDF Vektörleştirici Yükleme
 @st.cache_resource
